@@ -14,7 +14,7 @@ Physical Layer
 
 Peer To Peer Protocols      
 WebRTC (UDP Protocol) (Video streaming , Audio Streaming)    
-![img_1.png](PeerToPeerImage.png)
+![img_1.png](L01PeerToPeerImage.png)
 
 Client-Server Protocol     
 FTP (1-control connection , 1 Data connection)    
@@ -22,7 +22,7 @@ SMTP(Simple Mail Transfer protocol) - sending the email (is used along with Imap
 Http (1 Connection )    
 WEbSockets (Bidirectional Communication)  -> Client can talk to server and Server can talk to client
 (for messaging applications)
-![img.png](webSocketAndCSP.png)
+![img.png](L01webSocketAndCSP.png)
 
 Transport Layer 
 - > TCP - Connection is maintained, ordering maintained, Handshake
